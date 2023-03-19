@@ -6,14 +6,17 @@ More than 31,000 people responded to freeCodeCamp's 2018 New Coder Survey, grant
 Dataset: https://data.world/freecodecamp/new-coder-survey-2018
 
 ## Purpose of the project
-Using this dataset we plan on finding interesting patters and hidden information regarding on how and why adults learn to code, on their expectations after learning to code etc. 
+Using this dataset we plan on finding interesting patters and hidden information regarding on how and why adults learn to code, on their expectations after learning to code etc. Also we want to group different categories and see for each category how they learn to code.
 
 ## Machine Learning techniques to be used:
 In this project we will be using Unsupervised Learning techniques. We plan on using Clustering but during our work we might use Association if we find it fit for our project.
 
 ### Algirithms to be used
+We intend to use K-means algorithm for clustering
 
-### Testing Models
+#### Evaluate Accuracy 
+Algorithms: V-Measure, Silhouette Coefficient, Calinski-Harabasz Index
+
 
 ## Machine Learning steps
 
