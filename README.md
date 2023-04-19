@@ -12,7 +12,7 @@ Using this dataset we plan on finding interesting patterns and hidden informatio
 In this project we will be using Unsupervised Learning techniques. We plan on using Clustering but during our work we might use Association if we find it fit for our project.
 
 ### Algorithms to be used
-We intend to use K-means algorithm for clustering
+We intend to use K-means algorithm (K-Modes) for clustering along with ither algorithms and compare the output of each.
 
 #### Evaluate Accuracy 
 Algorithms: V-Measure, Silhouette Coefficient, Calinski-Harabasz Index
