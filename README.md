@@ -12,7 +12,7 @@ Using this dataset we plan on finding interesting patterns and hidden informatio
 In this project we will be using Unsupervised Learning techniques. We plan on using Clustering but during our work we might use Association if we find it fit for our project.
 
 ### Algorithms to be used
-Algorithms used for clustering are: K-Means, DBSCAN. Hierarchical Clustering.
+Algorithms used for clustering are: K-Means, DBSCAN.
 
 #### K-Means
 K-means algorithm was in 3 different data sets, one with missing values filled with mean, one with missing values filled with median, and one with mode.
@@ -70,9 +70,9 @@ DBSCAN performed better with second dataset which had median values.
 
 ##### Dataset with mode values
 
+![image](https://user-images.githubusercontent.com/27426101/233855393-516d5f24-93f2-4538-b3c4-d39e4c6e22fe.png)
 
-
-#### Hierarchical Clustering
+![image](https://user-images.githubusercontent.com/27426101/233855453-185dea05-2d4a-49e5-93e6-a46a9c4f63d0.png)
 
 
 #### Evaluate Accuracy 
