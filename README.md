@@ -140,7 +140,7 @@ The pca.fit_transform method was used to plot the data as a 2D plot, since there
 # Retrain 
 For the retrain changes were made: Dataset that was used had null values removed, so the records number was reduced to ~6000 records.
 Also dimensionality reduction was done, out of 11 featured only 6 were used. 
-Same algorithms were applied, teh clustering looks much better than in the previous phaze. 
+Same algorithms were applied, the clustering looks much better than in the previous phase. 
 
 ![image](https://github.com/florianaB/MachineLearning-Project/assets/27426101/250c8f43-0d4f-45fe-9b0b-bfbf093aa024)
 
@@ -148,4 +148,4 @@ Same algorithms were applied, teh clustering looks much better than in the previ
 
 ![image](https://github.com/florianaB/MachineLearning-Project/assets/27426101/1f1a2800-2f92-4dee-bc4e-4aab653b85a6)
 
-
+Code for this phase is in "How Adults Learn To Code - Retraining" file
